@@ -1,0 +1,28 @@
+.header{
+ display: flex;
+ align-items: center;
+justify-content: space-around;
+background-color: gold;
+}
+.sagteref{
+    width: 200px;
+    height: 200px;
+    /* background-color: red; */
+    margin: 20px 0px;
+}
+.solteref{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 20px 0px;
+}
+.anaheykel{
+    display: flex;
+    justify-content: space-around;
+
+}
+.futr{
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
